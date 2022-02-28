@@ -3,7 +3,7 @@ Progressive damage analysis of additive manufacturing composites
 
 This repository includes the raw data, processed data, python scripts, FEA Codes used to develop my PhD. Thesis entitled "Progressive damaga analysis of additive manufacturing composites". The repository is divided into sections corresponding with the chapter numbers, and the script are placed in the code section.
 
-Modules description: 
+Modules description (in codes folder): 
 
 * Module micromechanics.py --> Library of functions for appliying micromechanical equations such as ROM, iROM, PMM, SSP, HALPIN-TSAI, ETC to calculate elastic modulus.
 * Module microstrength.py --> Library of functions for calculating the strength of a composite lamina from micromechanical formulations
